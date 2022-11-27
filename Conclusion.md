@@ -23,4 +23,4 @@ For the tie breaker, we are gonna use the Air Quality Index. The neighborhood th
 For West Mifflin, the Air Quality Index is 6.335548
 For Braddock, the Air Quality index is 18.175603
 
-West Mifflin wins this tie breaker, crowning it the healthiest neighborhood to live in regarding Air Quality, Amount of Fast 
+West Mifflin wins this tie breaker, crowning it the healthiest neighborhood to live in regarding Air Quality, Amount of Fast Food Restaurants, and amount of waste dumped.
