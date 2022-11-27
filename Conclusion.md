@@ -1,17 +1,17 @@
 The only neighborhoods that appear in all of our datasets are West Mifflin, Clairton, and Braddock.
 We are gonna take the average rank of those three neighborhoods across our three datasets, and the highest ranks is crowned the healthiest neighborhood to live in.
 In christians notebook, here are the rankings:
-1. Braddock
-2. Clairton
-3. West Mifflin
+1 Braddock
+2 Clairton
+3 West Mifflin
 In my (hamza's) notebook, here are the rankings:
-1. West Mifflin
-2. Braddock
-3. Clairton
+1 West Mifflin
+2 Braddock
+3 Clairton
 In Nathan's notebook, here are the rankings:
-1. West Mifflin
-2. Braddock
-3. Clairton
+1 West Mifflin
+2 Braddock
+3 Clairton
 
 West Mifflin scored an average 1.666 rank 
 Braddock scored an average 1.666 rank
