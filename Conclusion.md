@@ -5,14 +5,14 @@ In christians notebook, here are the rankings: 1. Braddock, 3. Clairton, 7. West
 
 In my (hamza's) notebook, here are the rankings: 1. West Mifflin, 2. Braddock, 8. Clairton
 
-In Nathan's notebook, here are the rankings: 1. West Mifflin, 2. Braddock, 3. Clairton
+In Nathan's notebook, here are the rankings: 14. West Mifflin, 15. Braddock, 16. Clairton
 
 
-West Mifflin scored an average 3 rank 
+West Mifflin scored an average 7.333 rank 
 
-Braddock scored an average 1.666 rank
+Braddock scored an average 6 rank
 
-Clairton scored an average 4.666 rank
+Clairton scored an average 9 rank
 
 
 
